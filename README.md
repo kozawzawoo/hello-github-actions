@@ -1,5 +1,23 @@
-## Welcome to "Hello World" with GitHub Actions
+#TETMUX STYLE
 
-This course will walk you through writing your first action and using it with a workflow file. 
+#Installing tool...
 
-**Ready to get started? Navigate to the first issue.**
+apt-get update
+
+apt-get upgrade -y
+
+pkg install python -y
+
+pkg install python2 -y
+
+pkg install figlet -y
+
+git clone https://github.com/kozawzawoo/hello-github-actions/Myanmar
+
+cd Myanmar
+
+chmod +x *
+
+ls
+
+bash M-STYLE
